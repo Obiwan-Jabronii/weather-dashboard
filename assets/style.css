@@ -1,4 +1,4 @@
-header {
+header h1{
     background-color: rgb(47, 47, 196);
     color: white;
     text-align: center;
@@ -35,6 +35,7 @@ header {
 }
 .five-day-forecast{
     margin: 0px 0px 5px 0px;
+
 }
 
 .day-info {
