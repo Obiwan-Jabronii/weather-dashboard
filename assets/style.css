@@ -1,0 +1,61 @@
+header {
+    background-color: rgb(47, 47, 196);
+    color: white;
+    text-align: center;
+    padding: 2px;
+}
+
+.current-border {
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    margin: 3px;
+    padding: 3px;
+}
+
+.current-weather-title {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.day-card {
+    background-color: rgb(12, 58, 88);
+    color: white;
+    padding: 5px;
+    margin: 10px;
+}
+
+.date-block div {
+    padding: 10px 0px 10px 0px;
+}
+
+.date {
+    font-weight: bolder;
+    font-size: 32px;
+}
+.five-day-forecast{
+    margin: 0px 0px 5px 0px;
+}
+
+.day-info {
+    padding: 10px 0px 10px 0px;
+    font-size:larger;
+    font-weight: bold;
+}
+
+.search-btn {
+    background-color: rgb(36, 119, 187);
+    color: white;
+    margin: 10px 0px;
+}
+
+.search-form {
+    border-bottom: 3px solid grey;
+}
+
+.searched-btn {
+    background-color:royalblue;
+    color: black;
+    margin: 10px 0px;
+    text-align: center;
+}
